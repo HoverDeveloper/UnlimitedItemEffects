@@ -1,0 +1,35 @@
+{
+  # String: 1
+  "Items" : {
+    # String: 2
+    "magglass" : {
+      # String: 4
+      "Display Name" : "&e&lMagnifying Glass",
+      # String: 14
+      # Enchantment ; level
+      "Enchantments" : [
+        # String: 14
+        "minecraft:smite;1"
+      ],
+      # String: 3
+      "Item ID" : "pixelmon:wide_lens",
+      # String: 5
+      "Lore" : [
+        # String: 6
+        "&7Use this item to view",
+        # String: 7
+        "&7objects with some magnification!"
+      ],
+      # String: 12
+      # Potion effect ; level
+      "Potion Effects" : [
+        # String: 12
+        "minecraft:slowness@@10"
+      ],
+      # String: 9
+      "Should Hide Enchantments" : true,
+      # String: 10
+      "Should Hide Tooltip" : true
+    }
+  }
+}
